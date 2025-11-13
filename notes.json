@@ -1,5 +1,21 @@
 [
   {
+    "id": 1763057554236,
+    "stream": "science",
+    "subject": "Mathematics",
+    "year": "1st Year",
+    "chapter": "Fourier series",
+    "title": "Fourier series",
+    "description": "Study material for Fourier series",
+    "driveLink": "https://drive.google.com/file/d/1PF4ft6MzWDVCJh3TV60AGwTNgH82YSqB/view?usp=drivesdk",
+    "driveId": "1PF4ft6MzWDVCJh3TV60AGwTNgH82YSqB",
+    "fileSize": "5 MB",
+    "uploadedBy": "Nan",
+    "date": "2025-11-13",
+    "downloads": 0,
+    "views": 0
+  },
+  {
     "id": 1763057504604,
     "stream": "science",
     "subject": "Physics",
